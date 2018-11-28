@@ -1,9 +1,9 @@
-SparkFun ToF Range Finder Breakout - VL6180
+VL6180 Time of Flight Range Finder - [*This is a fork from Sparkfun*](https://github.com/sparkfun/ToF_Range_Finder_Breakout-VL6180)
 ===========================================
 
-![SparkFun ToF Range Finder Breakout - VL6180](https://cdn.sparkfun.com//assets/parts/9/5/9/6/12784-01.jpg)
+![VL6180 Time of Flight Range Finder](https://cdn.semaf.at/media/image/product/1896/md/vl6180-time-of-flight-range-finder.jpg)
 
-[*SparkFun ToF Range Finder Breakout - VL6180 (SEN-12784)*](https://www.sparkfun.com/products/12784)
+[*VL6180 Time of Flight Range Finder*](https://electronics.semaf.at/VL6180-Time-of-Flight-Range-Finder)
 
 This is a breakout board for the VL6180 Baby Bear time of flight range finder.
 The VL6180 is actually a 3-in-1 package that combines an IR emitter, a range sensor, and an ambient light sensor together for you to easily use. 
@@ -23,6 +23,8 @@ Documentation
 
 License Information
 -------------------
+[*This is a fork from Sparkfun*](https://github.com/sparkfun/ToF_Range_Finder_Breakout-VL6180)
+
 This product is _**open source**_! 
 
 The **hardware** is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
