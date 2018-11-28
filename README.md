@@ -1,8 +1,6 @@
 VL6180 Time of Flight Range Finder
 ===========================================
 
-![VL6180 Time of Flight Range Finder](https://electronics.semaf.at/media/image/product/1896/md/vl6180-time-of-flight-range-finder.jpg)
-
 [*VL6180 Time of Flight Range Finder*](https://electronics.semaf.at/VL6180-Time-of-Flight-Range-Finder)
 
 This is a breakout board for the VL6180 Baby Bear time of flight range finder.
